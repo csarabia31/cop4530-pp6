@@ -1,4 +1,8 @@
-Using RAMDA and JavaScript, and using pure functional programming, implement the given functions.
+# RAMDA Functional Programming
 
-	-to run, navigate to directory, run npm install, then run 'node app.js' which will run app.js which contains all the code and test code for this project
+To run navigate to directory
+
+	-run npm install
+	
+	-then run 'node app.js' which will run app.js which contains all the code and test code for this project
 	
